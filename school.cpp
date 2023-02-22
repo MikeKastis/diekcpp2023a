@@ -1,4 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cpplite/CPPTemplate.cpp to edit this template
- */
+
+// C++ program to display "Hello World"
+ 
+// Header file for input output functions
+#include <iostream>
+using namespace std;
+ 
+// Main() function: where the execution of program begins
+int main()
+{
+    // prints hello world
+    cout << "Hello World";
+ 
+    return 0;
+}
